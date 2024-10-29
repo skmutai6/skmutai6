@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hello World, I'm Shadrack!
 
-<!--
-**skmutai6/skmutai6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate web developer with a focus on creating dynamic responsive web applications.
 
-Here are some ideas to get you started:
+## 🌐 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Front-End:**
+  - HTML5
+  - CSS3
+  - Tailwind CSS
+  - JavaScript
+  - React
+
+- **Back-End:**
+  - Python
+  - Flask
+
+- **Design:**
+  - Figma
+
+- **Database:**
+  - DrawSQL
+  - PostgreSQL
+
+## 📚 Currently Learning
+
+- React Native
+
+## 🔧 Tools & Technologies
+
+- Version Control: Git, GitHub
+- Design Tools: Figma
+
+## 🌟 Projects
+
+## 📫 Get in Touch
+
+- Email: skmutai6@gmail.com
+- LinkedIn: https://www.linkedin.com/in/shadrack-mutai-576b86168/
+
+Thank you for visiting my profile! 😊
