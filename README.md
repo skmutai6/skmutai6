@@ -1,7 +1,9 @@
-# 👋 Hello World, I'm Shadrack!
+## 👋 Hello World, I'm Shadrack!
 
 🌟 Exploring web development to create dynamic user experiences!
+
 ⚡ Always diving into new tech to stay ahead!
+
 📈 Eager to learn and innovate in the tech world! 💡
 
 🛠️ Languages and Tools:
