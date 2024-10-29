@@ -6,9 +6,7 @@
 
 🛠️ Languages and Tools:
 
-# Technologies
-
-# Technologies
+## Languages and Tools
 
 ![JavaScript](https://github.com/user-attachments/assets/6a2cb716-e169-4a0d-b4b0-edc6806e86ac) 
 ![HTML5](https://github.com/user-attachments/assets/9096ce66-0eb5-477e-ad79-fcaca0558836)
