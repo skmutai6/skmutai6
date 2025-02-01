@@ -1,9 +1,6 @@
 👋 Hello World!
 
-Shadrack is;
-- 🌟 Exploring web development to create dynamic user experiences!
-- ⚡ Always exploring new tech to stay ahead!
-- 📈 Eager to learn and innovate in the tech world! 💡
+I am Shadrack, a full-stack developer! Check out my tech-stack below.
 
 🛠️ Languages and Tools:
 
